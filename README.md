@@ -1,0 +1,2 @@
+# strat-game
+console based
